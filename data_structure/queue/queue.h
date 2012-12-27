@@ -1,0 +1,4 @@
+struct queue_node
+{
+	
+}
